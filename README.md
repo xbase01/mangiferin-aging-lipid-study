@@ -1,4 +1,4 @@
-# mangiferin-aging-lipid-study
+# Anti-Aging and Lipid-Reducing Potential of Mangiferin in C. elegans
 
 This repository contains the in vivo and in silico analyses conducted to investigate the effects of mangiferin on lipid accumulation, stress tolerance, and aging in *Caenorhabditis elegans*.
 
